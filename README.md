@@ -12,11 +12,11 @@
 
 - Run the python code with the following command
 ```yaml
-python ./csvCombiner.py ./fixtures/accessories.csv ./fixtures/clothing.csv combined-results.csv
+python ./combineCSV.py ./fixtures/accessories.csv ./fixtures/clothing.csv combined-results.csv
 ```
 
 ### Unit Testing
 
 To run the unit test, type the following command
 ```
-py ./csvCombiner-test.py
+python ./combineCSV-test.py

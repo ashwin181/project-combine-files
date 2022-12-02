@@ -12,7 +12,7 @@
 
 - Run the python code with the following command
 ```yaml
-python ./combineCSV.py ./fixtures/accessories.csv ./fixtures/clothing.csv combined-results.csv
+python ./combineCSV.py ./fixtures/accessories.csv ./fixtures/clothing.csv ./fixtures/household_cleaners.csv combined-results.csv
 ```
 
 ### Unit Testing
